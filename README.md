@@ -1,2 +1,2 @@
-# The-Views-Dashboard-HO
-Dashboard of The Views Handover.
+# Larkana Hospital Structure Model
+CHL Structure.
